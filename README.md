@@ -1,3 +1,8 @@
+![alt text](https://github.com/mansourehk/profiling/blob/main/motive.png)
+
+<img src="https://github.com/mansourehk/profiling/blob/main/motive.png" width=50% height=50%>
+
+
 Run main.ipynb.
 
 Train BERT on both datasets from the files 'BertTraining - Gossipcop.ipynb' and 'BertTraining - Politifact.ipynb'.
