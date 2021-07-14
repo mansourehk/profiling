@@ -1,6 +1,6 @@
-<!-- ![alt text](https://github.com/mansourehk/profiling/blob/main/motive.png) -->
+![alt text](https://github.com/mansourehk/profiling/blob/main/motive.png)
 
-<img src="https://github.com/mansourehk/profiling/blob/main/motive.png" width=70% height=70% margin-left=auto margin-right=auto>
+<!-- <img src="https://github.com/mansourehk/profiling/blob/main/motive.png" width=70% height=70% margin-left=auto margin-right=auto> -->
 
 
 Run main.ipynb.
