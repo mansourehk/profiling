@@ -22,4 +22,5 @@ For the final representation vector of the users and their labels, whether they 
   year={2021}
 }
 ~~~~
-[Profiling Fake News Spreaders on Social Media through Psychological and Motivational Factors]:<https://dl.acm.org/doi/abs/10.1145/3465336.3475097>
+
+Profiling Fake News Spreaders on Social Media through Psychological and Motivational Factors: [[ACM Digital Library]](https://dl.acm.org/doi/abs/10.1145/3465336.3475097) [[arXiv]](https://arxiv.org/abs/2108.10942)
